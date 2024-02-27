@@ -1,0 +1,289 @@
+*{
+  margin: 0%;
+  padding:0%;
+
+}
+.fir-nav{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  background-color: rgb(254, 110, 134);
+  padding: 18px;
+}
+.feature{
+  display: flex;
+
+}
+.feature .app
+{
+  display: flex;
+  margin-inline: 22px;
+
+}
+.feature .app i
+{
+  margin-inline: 5px;
+}
+/* .inputs .ap
+{
+  display: flex;
+  margin-inline: 22px;
+}
+.inputs .ap
+{
+  margin-inline: 5px;
+} */
+.sec-nav
+{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  padding: 11px;
+}
+.sec-nav ul li img
+{
+  width: 8%;
+  margin-left: 22px;
+}
+.sec-nav ul li a
+{
+  margin-inline: 22px; 
+}
+.sec-nav .inputs
+{
+  display: flex;
+}
+.sec-nav .inputs button
+{
+  margin-inline: 22px;
+}
+.sec-nav .inputs input
+{
+  width: 220px;
+  background-color: rgb(225, 213, 213);
+  border: none;
+  outline: none;
+  text-align: center;
+  font-size: 16px;
+}
+.sec-nav .inputs button
+{
+  width: 80px;
+  height: 35px;
+  background-color: rgb(249, 89, 116);
+  color: white;
+  font-size: 17px;
+  border: none;
+  border-radius: 5px;
+}
+.items
+{
+  display: flex;
+  justify-content: space-around;
+  justify-content: left;
+  padding: 5px;
+}
+.items ul li a
+{
+  list-style: none;
+  margin-inline: 22px;
+  text-align: center;
+}
+.items ul li button
+{
+  /* width:100px;
+  height: 34px;
+  background-color: rgb(249, 89, 116);
+  color: white;
+  font-size: 17px;
+  border: none;
+  border-radius: 5px; */
+  width: 80px;
+  height: 35px;
+  background-color: rgb(249, 89, 116);
+  color: white;
+  font-size: 17px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 358px;
+}
+.items ul li
+{
+list-style: none;
+}
+.main img
+{
+  width: 100%;
+}
+.pink img{
+  width: 100%;
+}
+.pink h2
+{
+  text-align: center;
+  padding: 7px;
+}
+
+.brand
+{
+  text-align: center;
+}
+.card
+{
+  display: flex;
+  justify-content:space-around;
+  justify-content: center;
+  margin-inline: 22px;
+}
+.card img
+{
+  margin-inline: 22px;
+  width: 44%;
+}
+.brand h2
+{
+  text-align: center;
+  padding: 22px;
+}
+.topbrd
+{
+  display: flex;
+  justify-content:space-around;
+  justify-content: center;
+  margin-inline: 22px;
+}
+.topbrd img
+{
+  margin-inline: 22px;
+  width: 44%;
+}
+.only-nykaa h2
+{
+  text-align: center;
+  padding: 22px;
+
+}
+.only-nykaa .only
+{
+  display: flex;
+  justify-content:space-around;
+  justify-content: center;
+  margin-inline: 22px;
+}
+.only img
+{
+  margin-inline: 22px;
+  width: 44%;
+}
+
+
+/* .only-nykaa .only
+{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin-inline: 22px;
+
+} */
+/* .only
+{
+  display: flex;
+  justify-content:space-around;
+  justify-content: center;
+  margin-inline: 22px;
+}
+.only img
+{
+  margin-inline: 22px;
+  width: 44%;
+} */
+
+
+.only
+{
+  display: flex;
+  justify-content:space-around;
+  justify-content: center;
+  margin-inline: 22px;
+}
+.only img
+{
+  margin-inline: 22px;
+  width: 44%;
+}
+
+
+.make-up
+{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;  
+  padding: 42px;
+}
+.make-up img
+{
+  width: 22%;
+  margin-inline: 18px;
+}
+.special h2
+{
+  text-align: center;
+  padding: 22px;
+}
+.special .curation
+{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.curation img
+{
+  margin-inline: 22px;
+  width: 44%;
+}
+.beauty h2
+{
+  text-align: center;
+  padding: 22px;
+}
+.beauty .advice
+{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.advice img
+{
+  margin: inline 22px; 
+  width: 44%;
+}
+.footer
+{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  background-color: rgba(150, 148, 148, 0.927);
+  /* margin: 20px; */
+  padding: 40px;
+}
+.footer .list
+{
+  flex-direction: column;
+}
+.footer .list ul li a
+{
+  list-style: none;
+}
+.footer .list ul li a
+{
+  font-weight: 600;
+  font-size: 13px;
+}
+.footer .list ul li h2
+{
+  font-size: 15px;
+}
+.footer .ls
+{
+  list-style: none;
+}
